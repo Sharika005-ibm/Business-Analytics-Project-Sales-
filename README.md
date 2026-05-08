@@ -42,6 +42,7 @@ Monthly sales showed strong spikes but lacked consistency.
 Revenue volatility suggests seasonal or campaign-driven dependency.
 
 Dashboard Highlights
+
 Sales, quantity, and profit all exceeded targets.
 Profit outperformed most significantly with 46% growth above target.
 Consumers represented 50% of total sales, making them the largest customer segment.
