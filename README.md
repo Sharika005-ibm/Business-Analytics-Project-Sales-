@@ -3,8 +3,8 @@ Sales Performance Analysis Project —
 
 Project Overview
 
-This project focuses on analyzing retail sales performance across regions, product categories, customer segments, and time periods to transform raw sales data into actionable business insights. Using structured sales data from a Kaggle dataset and IBM Cognos Analytics, the objective was to identify performance trends, uncover market gaps, and support strategic business decision-making through interactive dashboards and reports. Based on the uploaded presentation, the analysis covered over 10,000 sales transactions across multiple variables including sales, profit, quantity, region, category, and order date. �
-
+This project focuses on analyzing retail sales performance across regions, product categories, customer segments, and time periods to transform raw sales data into actionable business insights. Using structured sales data from a Kaggle dataset and IBM Cognos Analytics, the objective was to identify performance trends, uncover market gaps, and support strategic business decision-making through interactive dashboards and reports. Based on the uploaded presentation, the analysis covered over 10,000 sales transactions across multiple variables including sales, profit, quantity, region, category, and order date.
+�
 Business analytics
 Business Problem
 Retail management lacked clear visibility into:
@@ -12,7 +12,8 @@ High-performing regions
 Product category contribution
 Sales trends over time
 Profitability and customer behavior
-The project solved this by converting unstructured transactional data into a meaningful dashboard for performance evaluation and strategy development. �
+The project solved this by converting unstructured transactional data into a meaningful dashboard for performance evaluation and strategy development.
+�
 Business analytics
 Data & Tools Used
 Dataset Source: Public Kaggle retail sales dataset
