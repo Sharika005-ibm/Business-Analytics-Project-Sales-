@@ -1,10 +1,11 @@
 # Business-Analytics-Project-Sales-
-Sales Performance Analysis Project — 
+Sales Performance Analysis Project 
 
 Project Overview
 
 This project focuses on analyzing retail sales performance across regions, product categories, customer segments, and time periods to transform raw sales data into actionable business insights. Using structured sales data from a Kaggle dataset and IBM Cognos Analytics, the objective was to identify performance trends, uncover market gaps, and support strategic business decision-making through interactive dashboards and reports. Based on the uploaded presentation, the analysis covered over 10,000 sales transactions across multiple variables including sales, profit, quantity, region, category, and order date.
-�
+
+
 Business analytics
 
 Business Problem
